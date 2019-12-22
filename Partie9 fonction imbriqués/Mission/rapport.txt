@@ -1,0 +1,21 @@
+Rapport
+
+
+
+
+
+fib:(graphe rouge)
+Nombre d'appel récursif exponentielle (graphe de gauche)
+Temps d'éxecution exponentielle (graphe de droite)  
+
+
+fib_it:(graphe vert)
+Nombre d'appel récursif constant (graphe de gauche)
+Temps d'éxecution plusou moins constant (graphe de droite)  (valeurs très proche mais nous les avons multiplié par un grand nombre pour que ces petites variations
+soient visibles sur le graphe mais ces valeurs oscillent autour d'une constante)
+
+
+fib_mem:(graphe bleu)
+Nombre d'appel récursif croissant linéairement (graphe de gauche)
+Temps d'éxecution plus ou moins croissant linéairement (graphe de droite)  (valeurs très proche mais nous les avons multiplié par un grand nombre pour que ces petites variations
+soient visibles sur le graphe mais le graphe eput être approximé par une droit croisante) 

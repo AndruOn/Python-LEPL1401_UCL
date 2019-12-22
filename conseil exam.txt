@@ -1,0 +1,10 @@
+
+
+tests:
+cas de base
+cas effets de bord
+analyse synthaxique (ca peut mettre 0 si on doit le faire par récurrence et on le fait en iteration, ou perdre un peut de point pcq on fait pleins de boucls en trop)
+
+
+ne pas modifier les valeurs hors de la fonction (pop())
+

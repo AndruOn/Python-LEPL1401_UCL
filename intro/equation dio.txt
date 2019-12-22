@@ -1,0 +1,9 @@
+equation diophantienne
+
+
+binome avec Ameme
+
+Mon programme permet de trouver les réponses d'une équation à 3 inconnues (diophantienne) dont l'utilisateur choisi les exposants.
+
+
+blague:     tanguy .
